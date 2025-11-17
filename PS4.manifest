@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# v1.2
+# Generated on 2025-11-17 15:15:04.262864
+
+CACHE:
+index.html
+css/index.css
+css/TheRaveI.ttf
+css/TheRaveI.woff
+js/index.js
+payloads/pl_pkgbackup.bin
+
+NETWORK:
+*
